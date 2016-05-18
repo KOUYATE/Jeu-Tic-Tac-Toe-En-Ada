@@ -1,0 +1,16 @@
+with "projet";
+with "gtkada";
+
+project Graphique is
+
+   for Source_Dirs use ("graphique_src");
+   for Object_Dir use "obj";
+   for Main use ("main.adb");
+
+   --  Enable Ada 2005.
+   package Compiler is
+      for Default_Switches ("ada") use ("-gnat05");
+   end Compiler;
+
+end Graphique;
+
