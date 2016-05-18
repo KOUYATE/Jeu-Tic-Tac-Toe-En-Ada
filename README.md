@@ -6,3 +6,5 @@ Le Tic Tac Toe se joue sur une grille carrée 3*3 cases . Deux joueurs s'affront
 remplir chacun à leur tour une case de la grille avec le symbole qui leur est attribué : O ou X . Le
 gagnant est celui qui arrive à aligner en premier trois de ses symboles verticalement,
 horizontalement ou en diagonale .
+<h4>Ci-dessous quelques illustrations du déroulement du jeu</h4>
+<h4><img src="https://github.com/KOUYATE/Jeu-Tic-Tac-Toe-En-Ada/blob/master/C1.PNG"/></h4><h4><img src="https://github.com/KOUYATE/Jeu-Tic-Tac-Toe-En-Ada/blob/master/C3.PNG"/></h4><h4><img src="https://github.com/KOUYATE/Jeu-Tic-Tac-Toe-En-Ada/blob/master/C4.PNG"/></h4><h4><img src="https://github.com/KOUYATE/Jeu-Tic-Tac-Toe-En-Ada/blob/master/C5.PNG"/></h4><h4><img src="https://github.com/KOUYATE/Jeu-Tic-Tac-Toe-En-Ada/blob/master/C6.PNG"/></h4><h4><img src="https://github.com/KOUYATE/Jeu-Tic-Tac-Toe-En-Ada/blob/master/C7.PNG"/></h4><h4><img src="https://github.com/KOUYATE/Jeu-Tic-Tac-Toe-En-Ada/blob/master/C8.PNG"/></h4><h4><img src="https://github.com/KOUYATE/Jeu-Tic-Tac-Toe-En-Ada/blob/master/C9.PNG"/></h4><h4><img src="https://github.com/KOUYATE/Jeu-Tic-Tac-Toe-En-Ada/blob/master/C10.PNG"/></h4>
